@@ -15,6 +15,7 @@ submission: https://github.com/getumbrel/umbrel-hello-world-app
 repo: https://github.com/getumbrel/umbrel-hello-world-app
 support: https://github.com/getumbrel/umbrel-hello-world-app/issues
 gallery:
+  - https://www.portainer.io/hubfs/Edge%20Aug22/edge-mockup.png
 releaseNotes: >-
   Add what's new in the latest version of your app here.
 dependencies: []
