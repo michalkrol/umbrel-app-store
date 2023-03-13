@@ -2,9 +2,15 @@ manifestVersion: 1
 id: michalkrol-portainer
 name: Portainer
 tagline: Portainer - container management
+<<<<<<< HEAD
 icon: https://github.com/michalkrol/umbrel-app-store/blob/master/michalkrol-portainer/portainer.svg
 category: Development
 version: "1.0.0"
+=======
+icon: https://raw.githubusercontent.com/michalkrol/umbrel-app-store/master/michalkrol-portainer/portainer.jpeg
+category: Development
+version: "1.0.1"
+>>>>>>> e438d6c (remove sparkles)
 port: 9000
 description: >-
   Portainer - container management
