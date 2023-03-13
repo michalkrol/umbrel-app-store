@@ -2,24 +2,18 @@ manifestVersion: 1
 id: michalkrol-portainer
 name: Portainer
 tagline: Portainer - container management
-<<<<<<< HEAD
-icon: https://github.com/michalkrol/umbrel-app-store/blob/master/michalkrol-portainer/portainer.svg
-category: Development
-version: "1.0.0"
-=======
 icon: https://raw.githubusercontent.com/michalkrol/umbrel-app-store/master/michalkrol-portainer/portainer.jpeg
 category: Development
-version: "1.0.1"
->>>>>>> e438d6c (remove sparkles)
+version: "1.0.2"
 port: 9000
 description: >-
   Portainer - container management
 developer: Portainer
 website: https://portainer.io
 submitter: Michal Krol
-submission: https://github.com/getumbrel/umbrel-hello-world-app
-repo: https://github.com/getumbrel/umbrel-hello-world-app
-support: https://github.com/getumbrel/umbrel-hello-world-app/issues
+submission: https://github.com/michalkrol/umbrel-app-store/tree/master/michalkrol-portainer
+repo: https://github.com/portainer/portainer
+support: https://github.com/portainer/portainer/issues
 gallery:
   - https://www.portainer.io/hubfs/Edge%20Aug22/edge-mockup.png
 releaseNotes: >-
