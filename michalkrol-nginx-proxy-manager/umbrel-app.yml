@@ -3,13 +3,13 @@ id: michalkrol-nginx-proxy-manager
 name: Nginx Proxy Manager
 tagline: Nginx Proxy Manager - Expose your services easily and securely
 category: Development
-version: "1.0.0"
+version: "2.9.20"
 icon: https://raw.githubusercontent.com/michalkrol/umbrel-app-store/master/michalkrol-nginx-proxy-manager/nginx-proxy-manager.png
 
 port: 81
 description: >-
   This project comes as a pre-built docker image that enables you to easily forward to your websites running at home or otherwise, including free SSL, without having to know too much about Nginx or Letsencrypt.
-developer: Portainer
+developer: nginxproxymanager.io
 website: https://nginxproxymanager.io
 submitter: Michal Krol
 submission: https://github.com/michalkrol/umbrel-app-store/tree/master/michalkrol-nginx-proxy-manager
