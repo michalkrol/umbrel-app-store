@@ -2,6 +2,7 @@ version: "3"
 services:
   portainer:
     image: portainer/portainer-ce:latest
+    user: "1000"
     ports:
       - 9000:9000
     volumes:
