@@ -3,7 +3,7 @@ id: michalkrol-nginx-proxy-manager
 name: Nginx Proxy Manager
 tagline: Nginx Proxy Manager - Expose your services easily and securely
 category: Development
-version: "2.9.20"
+version: "2.11.2"
 icon: https://raw.githubusercontent.com/michalkrol/umbrel-app-store/master/michalkrol-nginx-proxy-manager/nginx-proxy-manager.png
 
 port: 81

@@ -4,7 +4,7 @@ name: Portainer
 tagline: Portainer - container management
 icon: https://raw.githubusercontent.com/michalkrol/umbrel-app-store/master/michalkrol-portainer/portainer.jpeg
 category: Development
-version: "1.0.2"
+version: "1.0.3"
 port: 9000
 description: >-
   Portainer - container management
